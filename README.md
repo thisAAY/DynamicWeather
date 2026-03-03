@@ -117,7 +117,7 @@ The AI agent (and your own JSON) can use any combination of these:
 | State management | `StateFlow` + `ViewModel` |
 | Networking (weather) | [Ktor](https://ktor.io) (OkHttp engine) + kotlinx-serialization |
 | AI agent | [Koog AI](https://koog.ai) `0.6.3` — `koog-agents` + `prompt-executor-openai-client` |
-| LLM | OpenAI GPT-4o |
+| LLM | OpenAI GPT-5 |
 | Serialization | kotlinx-serialization-json |
 
 ---
